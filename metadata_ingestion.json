@@ -1,0 +1,6 @@
+{
+    "table_name": {
+        "incremental_column": "Date",
+        "last_value": "1900-01-01"
+    }
+}
